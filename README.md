@@ -13,9 +13,9 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository:s
 
-   git clone repo name
+   git clone <https://github.com/karanbir8872/Testing-skills.git>
 
 2. Install the dependencies
 
